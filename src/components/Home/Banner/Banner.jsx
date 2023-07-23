@@ -11,7 +11,7 @@ const Banner = () => {
             <div className="content">
                 <div className="text-content">
 
-                    <h1>HAPPIFY EVENTS</h1>
+                    <h1>HAPPIFY EVENTS @2</h1>
                     <p>
                        Unleash Sonic Bliss: Discover Premium Headphones, 
                        Earphones & Speakers. Elevate Your Audio Experience Today!
